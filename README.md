@@ -1,8 +1,8 @@
-# SEIKOCDE LLC brand assets
+# Seikode brand assets
 
-- `assets/SEIKOCDE-LLC-logo-with-text.png`: original company logo with the wordmark.
-- `assets/SEIKOCDE-LLC-logo-symbol.png`: original company symbol without text.
-- `assets/SEIKOCDE-LLC-avatar-400.png`: first 400 by 400 avatar export, below 1 MB.
-- `assets/SEIKOCDE-LLC-avatar-centered-400.png`: recommended centered 400 by 400 avatar for GitHub and LinkedIn, below 1 MB. Generated with the built-in image editing tool using the original symbol as the reference; the originals are preserved.
+- `assets/seikode-logo-symbol.png`: original company symbol without text.
+- `assets/seikode-avatar-400.png`: centered 400 by 400 avatar for GitHub and LinkedIn, below 1 MB. Generated with the built-in image editing tool using the original symbol as the reference.
 
-`profile/README.md` displays the company wordmark on the organization profile.
+`profile/README.md` displays the symbol with the Seikode name and company tagline on the organization profile.
+
+The original exports are preserved for reference. Their filenames and the original wordmark reflect earlier branding; use the assets listed above for current company profiles.
