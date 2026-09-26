@@ -3,3 +3,5 @@
 </p>
 
 <p align="center">Building practical software for work, careers, and everyday life.</p>
+
+<p align="center"><a href="https://seikode.dev">seikode.dev</a> · Offerin · Manbu · Mockin · Waypoint · Founded by <a href="https://yutonglv.com">Yutong Lyu</a></p>
